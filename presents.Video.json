@@ -8,13 +8,20 @@
     "视频",
     "多模态"
   ],
-  "source": "https://github.com/presents0721/presents-plugins",
+  "source": "https://github.com/presents0721/presents.Video",
   "dependencies": {
     "Alife.Function.FunctionCaller": "",
-    "Alife.Function.AIModelUtility": ""
+    "Alife.Function.AIModelUtility": "",
+    "Alife.Function.Vision": "",
+    "Alife.Function.Auditory": ""
   },
   "environments": null,
   "releases": {
+    "5.5.0": {
+      "date": "2026-10-26 12:00",
+      "note": "源码迁至独立仓库 presents.Video；依赖补充视觉（Vision）与听觉（Auditory）能力",
+      "file": "https://github.com/presents0721/presents.Video/releases/download/presents.Video-v5.5.0/presents.Video-5.5.0.zip"
+    },
     "4.0.0": {
       "date": "2026-10-08 00:00",
       "note": "初始版本",

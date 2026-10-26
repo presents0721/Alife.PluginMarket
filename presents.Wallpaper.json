@@ -10,12 +10,17 @@
     "场景",
     "自定义素材"
   ],
-  "source": "https://github.com/presents0721/presents-plugins",
+  "source": "https://github.com/presents0721/presents.Wallpaper",
   "dependencies": {
     "Alife.Function.FunctionCaller": ""
   },
   "environments": null,
   "releases": {
+    "5.8.1": {
+      "date": "2026-10-26 12:00",
+      "note": "场景渲染库（WebWallGL）更新与细节修复；源码迁至独立仓库 presents.Wallpaper，发布包改为按插件单独归档",
+      "file": "https://github.com/presents0721/presents.Wallpaper/releases/download/presents.Wallpaper-v5.8.1/presents.Wallpaper-5.8.1.zip"
+    },
     "5.7.2": {
       "date": "2026-10-22 16:00",
       "note": "自定义素材：挂件新增「我的」标签，可任选文件夹递归扫描图片 / 视频；静态图与 GIF 直接当壁纸；视频音量 0–200%（WebAudio 增益）、倍速 50–200%；修正发布包误带开发预览页与本机配置的问题",

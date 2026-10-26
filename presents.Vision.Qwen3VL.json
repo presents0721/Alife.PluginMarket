@@ -8,9 +8,10 @@
     "本地模型",
     "Qwen"
   ],
-  "source": "https://github.com/presents0721/presents-plugins",
+  "source": "https://github.com/presents0721/presents.Vision.Qwen3VL",
   "dependencies": {
-    "Alife.Function.AIModelUtility": ""
+    "Alife.Function.AIModelUtility": "",
+    "Alife.Function.Vision": ""
   },
   "environments": {
     "pip": {
@@ -28,6 +29,11 @@
     }
   },
   "releases": {
+    "5.1.0": {
+      "date": "2026-10-26 12:00",
+      "note": "源码迁至独立仓库 presents.Vision.Qwen3VL；依赖补充视觉（Vision）能力",
+      "file": "https://github.com/presents0721/presents.Vision.Qwen3VL/releases/download/presents.Vision.Qwen3VL-v5.1.0/presents.Vision.Qwen3VL-5.1.0.zip"
+    },
     "1.0.0": {
       "date": "2026-10-08 00:00",
       "note": "初始版本",

@@ -9,13 +9,18 @@
     "VRM",
     "PMX"
   ],
-  "source": "https://github.com/presents0721/presents-plugins",
+  "source": "https://github.com/presents0721/presents.DeskPet3D",
   "dependencies": {
     "Alife.Function.FunctionCaller": "",
     "Alife.Function.MessageFilter": ""
   },
   "environments": null,
   "releases": {
+    "5.0.0": {
+      "date": "2026-10-26 12:00",
+      "note": "源码迁至独立仓库 presents.DeskPet3D，发布包改为按插件单独归档",
+      "file": "https://github.com/presents0721/presents.DeskPet3D/releases/download/presents.DeskPet3D-v5.0.0/presents.DeskPet3D-5.0.0.zip"
+    },
     "1.0.0": {
       "date": "2026-10-08 00:00",
       "note": "初始版本",
